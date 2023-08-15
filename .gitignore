@@ -36,3 +36,4 @@ lerna-debug.log*
 
 docker-compose.yml
 mongo-data-4.4
+/.env
